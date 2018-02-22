@@ -1,0 +1,14 @@
+					JAVA CORE CONCEPTS --> EXHAUSTIVE LIST
+						|
+						|
+				FRAMEWORKS (SPRING, HIBERNATE, ETC...) --> EXHAUSTIVE LIST	
+						|
+						|
+					JAVA SERVLET PAGES --> EXHAUSTIVE LIST
+						|
+						|
+					DATA STRUCTURES	--> EXHAUSTIVE LIST
+						|
+						|
+					OPEN SOURCE PROJECTS --> RESUME
+
